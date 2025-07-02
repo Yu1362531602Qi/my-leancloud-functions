@@ -1,0 +1,12 @@
+{
+  "name": "my-chat-app-backend",
+  "version": "1.0.0",
+  "main": "cloud.js",
+  "dependencies": {
+    "leanengine": "^3.0.0",
+    "qiniu": "^7.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
